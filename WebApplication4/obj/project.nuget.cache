@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PqMPezNzSgITC87Igqd2UB/ZiR76vkgCoYQcakeC/ltF526oavLqw4IDbm7x0qwGff9fkQKhR7843E1X0e9URg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\soupy\\source\\repos\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\soupy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
